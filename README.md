@@ -11,10 +11,10 @@ The goal of this dataset is typically classification, aiming to predict the clas
 
 ## Result Analysis
 
-# Result Table:
+### Result Table:
 ![image](https://github.com/RiyaRaizada/Parameter_Optimization/assets/88757064/851851fc-9e2e-4d4e-a66c-4f80bbd3afc0)
 
-# Convergence Graph
+### Convergence Graph
 ![image](https://github.com/RiyaRaizada/Parameter_Optimization/assets/88757064/0340a899-78cd-4a5d-a746-1b067aa0c7be)
 
 ## Conclusion
